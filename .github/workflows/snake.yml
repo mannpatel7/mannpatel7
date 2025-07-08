@@ -9,10 +9,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - name: Generate GitHub Contribution Snake SVG
         uses: Platane/snk@v3
         with:
