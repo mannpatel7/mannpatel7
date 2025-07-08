@@ -77,13 +77,13 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mannpatel7/mannpatel7/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mannpatel7/mannpatel7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthpipermintwala/parthpipermintwala/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthpipermintwala/parthpipermintwala/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub Contribution Grid Snake Animation" 
-       src="https://raw.githubusercontent.com/mannpatel7/mannpatel7/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
+       src="https://raw.githubusercontent.com/parthpipermintwala/parthpipermintwala/output/github-contribution-grid-snake-dark.svg"
+       width="100%"
+       style="max-width: 1000px; background-color: #0d1117; border-radius: 9px; padding: 0px;">
 </picture>
 
 *🐍 This snake eats my GitHub contributions! Updates every 12 hours.*
